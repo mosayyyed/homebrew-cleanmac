@@ -1,9 +1,9 @@
 class Cleanmac < Formula
   desc "Interactive Mac cleanup tool for developers"
   homepage "https://github.com/mosayyyed/cleanmac"
-  url "https://github.com/mosayyyed/cleanmac/releases/download/v1.0.0/cleanmac"
-  sha256 "0be39f8f7463acdeea153822d02c667f88a8a6211cbe4d38eefdb4fb2dfea62c"
-  version "1.0.0"
+  url "https://github.com/mosayyyed/cleanmac/releases/download/v1.1.0/cleanmac"
+  sha256 "af053630cdbd02d4f0c0f1497bf875dffe8b79e9298e086c37ca9de5b4bf1506"
+  version "1.1.0"
 
   depends_on "fzf"
 
